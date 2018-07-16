@@ -23,7 +23,7 @@ $CsvFilePath = "C:\code\data\users.csv"
 $outfilePath = "C:\code\data\neo-users.txt"
 $location = "US"
 $Admin = "dansteve@teamsftw.com" # be careful of this
-$AdminPassword = "07Apples!"   # be careful of this
+$AdminPassword = "PASSWORDGOESHERE"   # be careful of this
 
 # this is the Teams IW trial (1 year)
 $EnabledPlans = 'TEAMS_IW'

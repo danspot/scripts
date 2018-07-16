@@ -21,7 +21,7 @@ $teamPhotoPath = "C:\code\danspot.github.io\images\neo-team2.png"
 $neoAppId = "c5a7da43-518d-4340-8139-cb7c93150015"
 $appJSON = "{ 'id': '$neoAppId'}"
 $Admin = "dansteve@teamsftw.com" # be careful of this
-$AdminPassword = "07Apples!"   # be careful of this
+$AdminPassword = "PASSWORDGOESHERE"   # be careful of this
 
 # load system.web library
 Add-Type -AssemblyName System.Web
